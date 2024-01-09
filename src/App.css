@@ -1,0 +1,21 @@
+#root {
+  padding: 2rem;
+}
+
+.container {
+  width: 400px;
+  margin: auto;
+}
+
+.data {
+  background-color: rgba(115, 248, 170, 0.616);
+  padding: 2rem;
+}
+
+.data-loading {
+  background-color: rgba(247, 240, 148, 0.829);
+}
+
+.data-error {
+  background-color: rgba(247, 178, 169, 0.897);
+}
